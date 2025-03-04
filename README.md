@@ -29,5 +29,5 @@
   </div>
 
   <!-- Bagian Kanan: Gambar Full -->
-  <img src="https://your-image-url.com/full-image.jpg" width="60%" />
+  <img src="https://github.com/Vnswx/Vnswx/blob/main/hero.gif" width="60%" />
 </div>
