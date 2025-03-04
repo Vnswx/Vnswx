@@ -7,5 +7,5 @@
 <h3 align="center">Rising again from nothing.</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnswx&layout=compact&theme=tokyonight" />
 </p>
