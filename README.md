@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://pin.it/6toMcQ7Vm" width="100%" />
+  <img src="[https://pin.it/6toMcQ7Vm](https://pin.it/6HS29t0EQ)" width="100%" />
 </p>
 <!--
 **Vnswx/Vnswx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
