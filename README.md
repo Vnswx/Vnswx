@@ -14,47 +14,20 @@
 
 ## 🚀 Languages & Tools
 
-<p align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" />
-        <br /> PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/CodeIgniter_logo.svg" width="30" />
-        <br /> CodeIgniter 4
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" />
-        <br /> Laravel
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />
-        <br /> Figma
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-        <br /> CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />
-        <br /> Bootstrap
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" />
-        <br /> Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-        <br /> MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-        <br /> Git
-      </td>
-    </tr>
-  </table>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Bagian Kiri: Logo dalam 2 Kolom -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/CodeIgniter_logo.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  </div>
+
+  <!-- Bagian Kanan: Gambar Full -->
+  <img src="https://your-image-url.com/full-image.jpg" width="60%" />
+</div>
